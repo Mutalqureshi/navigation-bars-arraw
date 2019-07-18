@@ -1,0 +1,14 @@
+nav ul:after{
+	content:"";
+	position:absolute;
+	z-index: 1000;
+	top: -20px;
+	right: -1px;
+	border-left:20px solid transparent;
+	border-right:0px solid transparent;
+	border-bottom:20px solid white;
+}
+
+
+
+------------------ arraw 768 bars ke upr---------------------------
